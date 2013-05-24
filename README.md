@@ -5,8 +5,8 @@ hogy feltölthetők legyenek a Brauniger Competino-ra. A fájlok szerintem más 
 tudom megerősíteni.
 
 A légtereket a galatech.hu oldalon megtalálható információkból és a vonatkozó törvény szövegéből gyűjtöttem ki. Linkek:
-http://galatech.hu/pg/dir/MoICAO/Mo_ICAO.htm
-http://www.complex.hu/jr/gen/hjegy_doc.cgi?docid=A0700026.GKM
+* http://galatech.hu/pg/dir/MoICAO/Mo_ICAO.htm
+* http://www.complex.hu/jr/gen/hjegy_doc.cgi?docid=A0700026.GKM
 
 Figyelem! Semmilyen felelősséget nem vállalok az adatok pontosságáért. Az adatok egyes esetekben pontatlanok lehetnek, így ha pontatlan adatok miatt sérted meg valamelyik légteret, és törlik a repülésed, akkor ne hibáztass!
    
