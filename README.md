@@ -37,4 +37,4 @@ A competino csak 20 tiltott légteret tud kezelni, ezért kicsit optimalizálni 
 * TMA5 határ oldalt közelítőleg tartalmazza, hogy kevesebb pont legyen
 * Pápa MCTR közepén a kör csak hozzávetőleges, aki már ide keveredik, az magára vessen!
 * Debrecen CRT TIZ1 (a középső rész) nincs benne, erre sem kellene keveredni, már a körülötte levő TIZ2 és TIZ3 is elég
- 
+* Azokhoz a légterekhez, amiken át lehet haladni (pl. G1, G2, G3) nem állítottam be figyelmeztető hangot, a többinél ezt három kilóméterre raktam (warndist="3000"). Ha ezen belül kerülsz, a műszer elvileg szól.
