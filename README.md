@@ -8,17 +8,17 @@ A légtereket a galatech.hu oldalon megtalálható információkból és a vonat
 http://galatech.hu/pg/dir/MoICAO/Mo_ICAO.htm
 http://www.complex.hu/jr/gen/hjegy_doc.cgi?docid=A0700026.GKM
 
-Figyelem! Semmilyen felelősséget nem vállalok az adatok pontosságáért, így ha miattam sérted meg valamelyik légteret, és törlik a repülésed, akkor ne hibáztass! Az adatok egyes esetekben pontatlanok lehetnek!
+Figyelem! Semmilyen felelősséget nem vállalok az adatok pontosságáért. Az adatok egyes esetekben pontatlanok lehetnek, így ha pontatlan adatok miatt sérted meg valamelyik légteret, és törlik a repülésed, akkor ne hibáztass!
    
 
 Mit tartalmazank a fájlok?
-__________________________
+--------------------------
 * convert.rb : ruby szkript, ami a gpx formátumból tud előállítani fa5 formátumot, hogy feltölthető legyen a Flychart szoftverbe
 * hun-city-wp.fw5: fontosabb városok, tájékozódási pontok amik szerintem hasznosak. Leginkább a nagyobb határvárosokat vettem fel ide.
 * hun-restricted.fa5: korlátozott légterek. 20 db van benne, mert ennyit bír a Competino
 
 Hogyan használd?
-________________ 
+----------------
 Ahhoz, hogy használni tudd a fájlokat, elsőként szükséges a legfrissebb firmware:
 http://www.brauniger.com/en/support/downloads/firmware.html
 
