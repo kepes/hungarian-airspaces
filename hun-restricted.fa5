@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<DATA>
+  <airspace name="BPTMA1 2300m" descr="5950m/2300m" warndist="0">
+    <point id="1" longitude="18.268199" latitude="47.736528"/>
+    <point id="2" longitude="18.277549" latitude="47.732486"/>
+    <point id="3" longitude="18.292776" latitude="47.731049"/>
+    <point id="4" longitude="18.339660" latitude="47.738101"/>
+    <point id="5" longitude="18.355021" latitude="47.742143"/>
+    <point id="6" longitude="18.372519" latitude="47.744479"/>
+    <point id="7" longitude="18.390952" latitude="47.751261"/>
+    <point id="8" longitude="18.406580" latitude="47.752609"/>
+    <point id="9" longitude="18.418067" latitude="47.754495"/>
+    <point id="10" longitude="18.418335" latitude="47.754495"/>
+    <point id="11" longitude="18.429555" latitude="47.755393"/>
+    <point id="12" longitude="18.444515" latitude="47.762400"/>
+    <point id="13" longitude="18.444515" latitude="47.762490"/>
+    <point id="14" longitude="18.451594" latitude="47.764826"/>
+    <point id="15" longitude="18.462671" latitude="47.764422"/>
+    <point id="16" longitude="18.464992" latitude="47.764177"/>
+    <point id="17" longitude="18.464992" latitude="47.584169"/>
+    <point id="18" longitude="18.742225" latitude="47.152226"/>
+    <point id="19" longitude="18.251939" latitude="47.225268"/>
+    <point id="20" longitude="18.257496" latitude="47.589169"/>
+    <point id="21" longitude="18.258333" latitude="47.738621"/>
+    <point id="22" longitude="18.268199" latitude="47.736528"/>
+  </airspace>
+  <airspace name="BPTMA2 2000m" descr="5950m/2000m" warndist="0">
+    <point id="1" longitude="18.464992" latitude="47.764177"/>
+    <point id="2" longitude="18.464992" latitude="47.584169"/>
+    <point id="3" longitude="18.742225" latitude="47.152226"/>
+    <point id="4" longitude="18.853333" latitude="47.134995"/>
+    <point id="5" longitude="18.896120" latitude="47.421112"/>
+    <point id="6" longitude="18.698881" latitude="47.542498"/>
+    <point id="7" longitude="18.618050" latitude="47.757504"/>
+    <point id="8" longitude="18.606155" latitude="47.758673"/>
+    <point id="9" longitude="18.592127" latitude="47.761996"/>
+    <point id="10" longitude="18.561132" latitude="47.766308"/>
+    <point id="11" longitude="18.551246" latitude="47.764422"/>
+    <point id="12" longitude="18.538019" latitude="47.764242"/>
+    <point id="13" longitude="18.527198" latitude="47.758673"/>
+    <point id="14" longitude="18.516110" latitude="47.755349"/>
+    <point id="15" longitude="18.502082" latitude="47.753642"/>
+    <point id="16" longitude="18.490593" latitude="47.752923"/>
+    <point id="17" longitude="18.485649" latitude="47.754001"/>
+    <point id="18" longitude="18.472423" latitude="47.761817"/>
+    <point id="19" longitude="18.464992" latitude="47.764177"/>
+  </airspace>
+  <airspace name="BPTMA3 1050m" descr="5950m/1050m" warndist="0">
+    <point id="1" longitude="18.618050" latitude="47.757504"/>
+    <point id="2" longitude="18.698881" latitude="47.542498"/>
+    <point id="3" longitude="18.896120" latitude="47.421112"/>
+    <point id="4" longitude="18.853333" latitude="47.134995"/>
+    <point id="5" longitude="19.274998" latitude="47.067490"/>
+    <point id="6" longitude="19.458053" latitude="47.101672"/>
+    <point id="7" longitude="18.994439" latitude="47.423601"/>
+    <point id="8" longitude="19.021668" latitude="47.515268"/>
+    <point id="9" longitude="18.982787" latitude="47.538893"/>
+    <point id="10" longitude="18.883331" latitude="47.583332"/>
+    <point id="11" longitude="18.906934" latitude="47.622213"/>
+    <point id="12" longitude="19.114451" latitude="47.778618"/>
+    <point id="13" longitude="18.730831" latitude="47.797222"/>
+    <point id="14" longitude="18.730428" latitude="47.794651"/>
+    <point id="15" longitude="18.726283" latitude="47.789081"/>
+    <point id="16" longitude="18.717725" latitude="47.784230"/>
+    <point id="17" longitude="18.707695" latitude="47.782074"/>
+    <point id="18" longitude="18.707562" latitude="47.782074"/>
+    <point id="19" longitude="18.699004" latitude="47.775696"/>
+    <point id="20" longitude="18.681639" latitude="47.767386"/>
+    <point id="21" longitude="18.644097" latitude="47.759032"/>
+    <point id="22" longitude="18.636348" latitude="47.759301"/>
+    <point id="23" longitude="18.618050" latitude="47.757504"/>
+  </airspace>
+  <airspace name="BPTMA4 750m" descr="5950m/750m" warndist="0">
+    <point id="1" longitude="19.114451" latitude="47.778618"/>
+    <point id="2" longitude="18.906934" latitude="47.622213"/>
+    <point id="3" longitude="18.883331" latitude="47.583332"/>
+    <point id="4" longitude="18.982787" latitude="47.538893"/>
+    <point id="5" longitude="19.021668" latitude="47.515268"/>
+    <point id="6" longitude="19.033062" latitude="47.514989"/>
+    <point id="7" longitude="19.069991" latitude="47.603331"/>
+    <point id="8" longitude="19.275277" latitude="47.770829"/>
+    <point id="9" longitude="19.114451" latitude="47.778618"/>
+  </airspace>
+  <airspace name="BPTMA5 2000m" descr="5950m/2000m" warndist="2000">
+    <point id="1" longitude="18.73065948486328" latitude="47.79718588242914"/>
+    <point id="2" longitude="18.739328384399414" latitude="47.81315451752768"/>
+    <point id="3" longitude="18.84781837463379" latitude="47.81597878312813"/>
+    <point id="4" longitude="18.821640014648438" latitude="47.850088384123495"/>
+    <point id="5" longitude="18.763446807861328" latitude="47.87133792475006"/>
+    <point id="6" longitude="18.75469207763672" latitude="47.973835076324704"/>
+    <point id="7" longitude="18.845672607421875" latitude="48.0526114782478"/>
+    <point id="8" longitude="19.014244079589844" latitude="48.077620181726886"/>
+    <point id="9" longitude="19.24083709716797" latitude="48.053299953804434"/>
+    <point id="10" longitude="19.300575256347656" latitude="48.08817066753472"/>
+    <point id="11" longitude="19.399452209472656" latitude="48.08220761536228"/>
+    <point id="12" longitude="19.681384" latitude="47.750831"/>
+  </airspace>
+  <airspace name="BPTMA6 600m" descr="5950m/600m" warndist="0">
+    <point id="1" longitude="19.275277" latitude="47.770829"/>
+    <point id="2" longitude="19.069991" latitude="47.603331"/>
+    <point id="3" longitude="19.033062" latitude="47.514989"/>
+    <point id="4" longitude="19.021668" latitude="47.515268"/>
+    <point id="5" longitude="18.994439" latitude="47.423601"/>
+    <point id="6" longitude="19.458053" latitude="47.101672"/>
+    <point id="7" longitude="19.998057" latitude="47.200828"/>
+    <point id="8" longitude="19.681384" latitude="47.750831"/>
+    <point id="9" longitude="19.275277" latitude="47.770829"/>
+  </airspace>
+  <airspace name="BPTMA7 1700m" descr="5950m/1700m" warndist="3000">
+    <point id="1" longitude="19.681384" latitude="47.750831"/>
+    <point id="2" longitude="19.998057" latitude="47.200828"/>
+    <point id="3" longitude="20.177786" latitude="47.397509"/>
+    <point id="4" longitude="20.065005" latitude="47.591379"/>
+    <point id="5" longitude="19.681384" latitude="47.750831"/>
+  </airspace>
+  <airspace name="BPTMA9 600m" descr="5950m/600m AMSL" warndist="3000">
+    <point id="1" longitude="19.998057" latitude="47.200828"/>
+    <point id="2" longitude="19.458053" latitude="47.101672"/>
+    <point id="3" longitude="19.274998" latitude="47.067490"/>
+    <point id="4" longitude="20.074446" latitude="47.044444"/>
+    <point id="5" longitude="19.998057" latitude="47.200828"/>
+  </airspace>
+  <airspace name="G1 750m" descr="1050m/750m" warndist="0">
+    <point id="1" longitude="18.906934" latitude="47.622213"/>
+    <point id="2" longitude="18.985834" latitude="47.550566"/>
+    <point id="3" longitude="18.982787" latitude="47.538893"/>
+    <point id="4" longitude="18.883331" latitude="47.583332"/>
+    <point id="5" longitude="18.906934" latitude="47.622213"/>
+  </airspace>
+  <airspace name="G10 1350m" descr="2900m/1350m" warndist="0">
+    <point id="1" longitude="18.730428" latitude="47.794651"/>
+    <point id="2" longitude="18.726283" latitude="47.789081"/>
+    <point id="3" longitude="18.717725" latitude="47.784230"/>
+    <point id="4" longitude="18.707695" latitude="47.782074"/>
+    <point id="5" longitude="18.707562" latitude="47.782074"/>
+    <point id="6" longitude="18.699004" latitude="47.775696"/>
+    <point id="7" longitude="18.681639" latitude="47.767386"/>
+    <point id="8" longitude="18.644097" latitude="47.759032"/>
+    <point id="9" longitude="18.636348" latitude="47.759301"/>
+    <point id="10" longitude="18.618050" latitude="47.757504"/>
+    <point id="11" longitude="18.668046" latitude="47.622771"/>
+    <point id="12" longitude="18.864448" latitude="47.789712"/>
+    <point id="13" longitude="18.730831" latitude="47.797222"/>
+    <point id="14" longitude="18.730428" latitude="47.794651"/>
+  </airspace>
+  <airspace name="G2 1050m" descr="2000m/1050m" warndist="0">
+    <point id="1" longitude="18.883331" latitude="47.583332"/>
+    <point id="2" longitude="18.982787" latitude="47.538893"/>
+    <point id="3" longitude="18.969998" latitude="47.500548"/>
+    <point id="4" longitude="18.979440" latitude="47.491944"/>
+    <point id="5" longitude="19.013064" latitude="47.486107"/>
+    <point id="6" longitude="18.994439" latitude="47.423601"/>
+    <point id="7" longitude="18.925280" latitude="47.421949"/>
+    <point id="8" longitude="18.954720" latitude="47.443342"/>
+    <point id="9" longitude="18.768339" latitude="47.557776"/>
+    <point id="10" longitude="18.883331" latitude="47.583332"/>
+  </airspace>
+  <airspace name="G3 1350m" descr="2000m/1350m" warndist="0">
+    <point id="1" longitude="18.768339" latitude="47.557776"/>
+    <point id="2" longitude="18.954720" latitude="47.443342"/>
+    <point id="3" longitude="18.925280" latitude="47.421949"/>
+    <point id="4" longitude="18.896120" latitude="47.421112"/>
+    <point id="5" longitude="18.698881" latitude="47.542498"/>
+    <point id="6" longitude="18.768339" latitude="47.557776"/>
+  </airspace>
+  <airspace name="TIZ2 DEBRE 600m" descr="2900m/600m" warndist="3000">
+    <point id="1" longitude="22.016389919444919" latitude="47.517219968140125"/>
+    <point id="2" longitude="21.724719889461994" latitude="47.17221999540925"/>
+    <point id="3" longitude="21.436389796435833" latitude="47.198329959064722"/>
+    <point id="4" longitude="21.295279869809747" latitude="47.400559969246387"/>
+    <point id="5" longitude="21.545279938727617" latitude="47.545279897749424"/>
+    <point id="6" longitude="21.835829978808761" latitude="47.69082996994257"/>
+    <point id="7" longitude="22.016389919444919" latitude="47.517219968140125"/>
+  </airspace>
+  <airspace name="TIZ2 SARMEL 600m" descr="2900m/600m" warndist="3000">
+    <point id="1" longitude="16.819999879226089" latitude="46.869719959795475"/>
+    <point id="2" longitude="17.214439837262034" latitude="46.875829948112369"/>
+    <point id="3" longitude="17.328889947384596" latitude="46.573059847578406"/>
+    <point id="4" longitude="17.297219848260283" latitude="46.479719979688525"/>
+    <point id="5" longitude="17.008609967306256" latitude="46.42749996855855"/>
+    <point id="6" longitude="16.819999879226089" latitude="46.869719959795475"/>
+  </airspace>
+  <airspace name="TIZ3 DEBRE 1500m" descr="2900m/1500m" warndist="3000">
+    <point id="1" longitude="21.622779937461019" latitude="47.788329776376486"/>
+    <point id="2" longitude="21.835829978808761" latitude="47.69082996994257"/>
+    <point id="3" longitude="21.545279938727617" latitude="47.545279897749424"/>
+    <point id="4" longitude="21.560829877853394" latitude="47.766389977186918"/>
+    <point id="5" longitude="21.622779937461019" latitude="47.788329776376486"/>
+  </airspace>
+  <airspace name="PapaMTMA 600m" descr="" warndist="3000">
+    <point id="1" longitude="17.444400787353516" latitude="46.99966081513981"/>
+    <point id="2" longitude="17.281665802001953" latitude="47.0413519790076"/>
+    <point id="3" longitude="17.051124572753906" latitude="47.481654665856375"/>
+    <point id="4" longitude="17.264928817749023" latitude="47.5996813120644"/>
+    <point id="5" longitude="17.598252296447754" latitude="47.59971025015176"/>
+    <point id="6" longitude="17.69824504852295" latitude="47.49972062426684"/>
+    <point id="7" longitude="17.837462425231934" latitude="47.49969163091823"/>
+    <point id="8" longitude="17.983245849609375" latitude="47.21639091764696"/>
+  </airspace>
+  <airspace name="Kecskemet tiltott" descr="1200m/GND" warndist="3000">
+      <circle id="1" longitude="19.7508333" latitude="46.9177778" radius="10"/>
+  </airspace>
+  <airspace name="Paks tiltott" descr="" warndist="2000">
+      <circle id="1" longitude="18.8527778" latitude="46.5786111" radius="3"/>
+  </airspace>
+  <airspace name="Szolnok MCTR tiltott" descr="" warndist="3000">
+    <point id="1" longitude="20.074424743652344" latitude="47.04474435313928"/>
+    <point id="1" longitude="20.295181274414062" latitude="47.343824575397086"/>
+    <point id="1" longitude="20.49121856689453" latitude="47.307986692003546"/>
+    <point id="1" longitude="20.33517837524414" latitude="47.00214856953745"/>
+  </airspace>
+  <airspace name="PapaMCTR tiltott" descr="" warndist="3000">
+    <point id="1" longitude="17.52323627471924" latitude="47.12720617415971"/>
+    <point id="2" longitude="17.43950843811035" latitude="47.2845276467348"/>
+    <point id="3" longitude="17.375564575195312" latitude="47.33626340988044"/>
+    <point id="4" longitude="17.37934112548828" latitude="47.39718721653071"/>
+    <point id="5" longitude="17.2979736328125" latitude="47.549652385251264"/>
+    <point id="6" longitude="17.48096466064453" latitude="47.593893372872294"/>
+    <point id="7" longitude="17.56610870361328" latitude="47.441556792248534"/>
+    <point id="8" longitude="17.620010375976562" latitude="47.39881398671558"/>
+    <point id="9" longitude="17.625160217285156" latitude="47.33626340988044"/>
+    <point id="10" longitude="17.714853286743164" latitude="47.174719994635375"/> 
+  </airspace>
+</DATA>

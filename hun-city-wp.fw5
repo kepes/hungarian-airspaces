@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1/" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1/ http://www.topografix.com/GPX/1/1//gpx.xsd" creator="FlyChart, Version 4.52(72) TEST, June 31st 2012 - http://www.flytec.ch">
+  <wpt lat="47.52415632145372" lon="21.628646850585938">  
+    <ele>200</ele>
+    <name>Debrecen</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="47.9839472330482" lon="22.5164794921875">  
+    <ele>200</ele>
+    <name>Fehergyarmat</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.895398698850904" lon="20.379981994628906">  
+    <ele>200</ele>
+    <name>Eger</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6451938027548" lon="21.276397705078125">  
+    <ele>200</ele>
+    <name>Gyula</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.25442247883765" lon="20.153045654296875">  
+    <ele>200</ele>
+    <name>Szeged</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="45.99982360564013" lon="18.683624267578125">  
+    <ele>200</ele>
+    <name>Mohács</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="45.854869093792125" lon="18.29875946044922">  
+    <ele>200</ele>
+    <name>Siklós</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="45.95592353109711" lon="17.463455200195312">  
+    <ele>200</ele>
+    <name>Barcs</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.426499019253" lon="16.7266845703125">  
+    <ele>200</ele>
+    <name>Letenye</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.88014169942627" lon="16.167068481445312">  
+    <ele>200</ele>
+    <name>Felsőszölnök</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22982711058905" lon="16.62506103515625">  
+    <ele>200</ele>
+    <name>Szombathely</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.68341892265674" lon="16.58660888671875">  
+    <ele>200</ele>
+    <name>Sopron</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87122277456414" lon="17.269821166992188">  
+    <ele>200</ele>
+    <name>Mosonmagyaróvár</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.68203210030427" lon="17.64129638671875">  
+    <ele>200</ele>
+    <name>Győr</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7420939217573" lon="18.11920166015625">  
+    <ele>200</ele>
+    <name>Komárom</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.28669842666092" lon="21.018905639648438">  
+    <ele>200</ele>
+    <name>Battonya</name>
+    <desc></desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12925002565741" lon="21.72374725341797">  
+     <ele>200</ele>
+     <name>Biharkeresztes</name>
+     <desc></desc>
+     <extensions>
+       <radius>400</radius>
+     </extensions>
+   </wpt>
+   <wpt lat="47.94762618352869" lon="21.724090576171875">  
+      <ele>200</ele>
+      <name>Nyíregyháza</name>
+      <desc></desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </wpt>
+</gpx>
